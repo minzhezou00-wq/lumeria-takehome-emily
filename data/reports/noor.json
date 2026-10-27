@@ -1,0 +1,1387 @@
+{
+  "id": "noor",
+  "generatedAt": "2026-10-23T09:00:00Z",
+  "person": {
+    "firstName": "Noor",
+    "age": 27,
+    "skinType": "Combination",
+    "concerns": [
+      "Redness",
+      "Uneven texture"
+    ],
+    "connectedSources": [
+      "Apple Health",
+      "Location"
+    ]
+  },
+  "period": {
+    "start": "2026-09-23",
+    "end": "2026-10-22"
+  },
+  "products": [
+    {
+      "id": "prod_moisturizer",
+      "name": "Barrier Repair Moisturizer",
+      "category": "Moisturizer",
+      "keyIngredients": [
+        "Ceramides",
+        "Glycerin"
+      ],
+      "usage": "AM + PM",
+      "startDate": "2026-09-23",
+      "endDate": null
+    },
+    {
+      "id": "prod_retinol",
+      "name": "Retinol 0.3% Night Serum",
+      "category": "Serum",
+      "keyIngredients": [
+        "Retinol"
+      ],
+      "usage": "PM, 3x a week",
+      "startDate": "2026-09-30",
+      "endDate": "2026-10-11",
+      "stoppedReason": "Stinging and redness around the nose"
+    },
+    {
+      "id": "prod_azelaic",
+      "name": "Azelaic Acid 10% Gel",
+      "category": "Treatment",
+      "keyIngredients": [
+        "Azelaic acid"
+      ],
+      "usage": "PM, daily",
+      "startDate": "2026-10-13",
+      "endDate": null
+    }
+  ],
+  "scans": [
+    {
+      "id": "noor_scan_01",
+      "takenAt": "2026-09-24T04:08:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_01.svg",
+      "scores": {
+        "hydration": 56,
+        "evenness": 60,
+        "redness": 71,
+        "pigmentation": 70,
+        "oiliness": 61,
+        "overall": 64
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Redness is calm.",
+          "Your skin looks drier than usual."
+        ],
+        "tip": "Try applying moisturizer while your skin is still a little damp after washing."
+      },
+      "annotation": {
+        "note": "First scan! Starting the ceramide moisturizer today.",
+        "tags": [
+          "Tight"
+        ],
+        "stress": 2
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 7.2,
+        "steps": 6242,
+        "restingHeartRate": 59,
+        "hrvMs": 66,
+        "waterGlasses": 5,
+        "cycleDay": 13
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 3,
+          "humidityPct": 75,
+          "tempHighC": 22,
+          "aqi": 23
+        }
+      }
+    },
+    {
+      "id": "noor_scan_02",
+      "takenAt": "2026-09-24T15:33:00Z",
+      "area": "Forehead",
+      "photoUrl": "/scans/noor_scan_02.svg",
+      "scores": {
+        "hydration": 60,
+        "evenness": 61,
+        "redness": 69,
+        "pigmentation": 71,
+        "oiliness": 62,
+        "overall": 65
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "Your skin looks drier than usual."
+        ],
+        "tip": "Try applying moisturizer while your skin is still a little damp after washing."
+      },
+      "annotation": {
+        "note": null,
+        "tags": [],
+        "stress": 1
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 7.1,
+        "steps": 9304,
+        "restingHeartRate": 58,
+        "hrvMs": 55,
+        "waterGlasses": 5,
+        "cycleDay": 14
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 4,
+          "humidityPct": 76,
+          "tempHighC": 23,
+          "aqi": 39
+        }
+      }
+    },
+    {
+      "id": "noor_scan_03",
+      "takenAt": "2026-09-25T15:48:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_03.svg",
+      "scores": {
+        "hydration": 60,
+        "evenness": 62,
+        "redness": 68,
+        "pigmentation": 74,
+        "oiliness": 61,
+        "overall": 65
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "Your skin looks drier than usual."
+        ],
+        "tip": "Try applying moisturizer while your skin is still a little damp after washing."
+      },
+      "annotation": {
+        "note": "Skin feels calmer than usual.",
+        "tags": [
+          "Calm"
+        ],
+        "stress": 3
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 8.1,
+        "steps": 5102,
+        "restingHeartRate": 55,
+        "hrvMs": 61,
+        "waterGlasses": 7,
+        "cycleDay": 15
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 4,
+          "humidityPct": 70,
+          "tempHighC": 23,
+          "aqi": 32
+        }
+      }
+    },
+    {
+      "id": "noor_scan_04",
+      "takenAt": "2026-09-28T04:48:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_04.svg",
+      "scores": {
+        "hydration": 60,
+        "evenness": 65,
+        "redness": 71,
+        "pigmentation": 72,
+        "oiliness": 64,
+        "overall": 66
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "Your skin looks drier than usual."
+        ],
+        "tip": "Try applying moisturizer while your skin is still a little damp after washing."
+      },
+      "annotation": null,
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 6.9,
+        "steps": 7163,
+        "restingHeartRate": 56,
+        "hrvMs": 73,
+        "waterGlasses": 6,
+        "cycleDay": 17
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 5,
+          "humidityPct": 76,
+          "tempHighC": 21,
+          "aqi": 27
+        }
+      }
+    },
+    {
+      "id": "noor_scan_05",
+      "takenAt": "2026-09-28T15:30:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_05.svg",
+      "scores": {
+        "hydration": 59,
+        "evenness": 66,
+        "redness": 72,
+        "pigmentation": 69,
+        "oiliness": 65,
+        "overall": 66
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Redness is calm.",
+          "Your skin looks drier than usual."
+        ],
+        "tip": "Try applying moisturizer while your skin is still a little damp after washing."
+      },
+      "annotation": {
+        "note": null,
+        "tags": [],
+        "stress": 1
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 6.4,
+        "steps": 5593,
+        "restingHeartRate": 55,
+        "hrvMs": 72,
+        "waterGlasses": 8,
+        "cycleDay": 18
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 3,
+          "humidityPct": 67,
+          "tempHighC": 20,
+          "aqi": 30
+        }
+      }
+    },
+    {
+      "id": "noor_scan_06",
+      "takenAt": "2026-09-29T15:41:00Z",
+      "area": "Forehead",
+      "photoUrl": "/scans/noor_scan_06.svg",
+      "scores": {
+        "hydration": 63,
+        "evenness": 64,
+        "redness": 70,
+        "pigmentation": 69,
+        "oiliness": 62,
+        "overall": 66
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Redness is calm."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "annotation": {
+        "note": null,
+        "tags": [],
+        "stress": 2
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 7.5,
+        "steps": 7459,
+        "restingHeartRate": 55,
+        "hrvMs": 71,
+        "waterGlasses": 7,
+        "cycleDay": 19
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 5,
+          "humidityPct": 77,
+          "tempHighC": 17,
+          "aqi": 39
+        }
+      }
+    },
+    {
+      "id": "noor_scan_07",
+      "takenAt": "2026-09-30T15:06:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_07.svg",
+      "scores": {
+        "hydration": 60,
+        "evenness": 64,
+        "redness": 72,
+        "pigmentation": 69,
+        "oiliness": 63,
+        "overall": 66
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Redness is calm.",
+          "Your skin looks drier than usual."
+        ],
+        "tip": "Try applying moisturizer while your skin is still a little damp after washing."
+      },
+      "annotation": {
+        "note": "Starting retinol tonight, a little nervous.",
+        "tags": [],
+        "stress": 2
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 6.7,
+        "steps": 5187,
+        "restingHeartRate": 58,
+        "hrvMs": 73,
+        "waterGlasses": 7,
+        "cycleDay": 20
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 3,
+          "humidityPct": 69,
+          "tempHighC": 21,
+          "aqi": 37
+        }
+      }
+    },
+    {
+      "id": "noor_scan_08",
+      "takenAt": "2026-10-02T04:18:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_08.svg",
+      "scores": {
+        "hydration": 61,
+        "evenness": 65,
+        "redness": 69,
+        "pigmentation": 73,
+        "oiliness": 64,
+        "overall": 66
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "Your skin looks drier than usual."
+        ],
+        "tip": "Try applying moisturizer while your skin is still a little damp after washing."
+      },
+      "annotation": {
+        "note": "Retinol night one done, tiny bit of tingling.",
+        "tags": [
+          "Tingly"
+        ],
+        "stress": 1
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 7.5,
+        "steps": 5717,
+        "restingHeartRate": 56,
+        "hrvMs": 61,
+        "waterGlasses": 5,
+        "cycleDay": 21
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 5,
+          "humidityPct": 70,
+          "tempHighC": 17,
+          "aqi": 26
+        }
+      }
+    },
+    {
+      "id": "noor_scan_09",
+      "takenAt": "2026-10-03T15:14:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_09.svg",
+      "scores": {
+        "hydration": 61,
+        "evenness": 61,
+        "redness": 62,
+        "pigmentation": 74,
+        "oiliness": 61,
+        "overall": 64
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "Your skin looks drier than usual."
+        ],
+        "tip": "Try applying moisturizer while your skin is still a little damp after washing."
+      },
+      "annotation": {
+        "note": "Flying to Phoenix for a wedding. So dry here already.",
+        "tags": [
+          "Tight",
+          "Dry"
+        ],
+        "stress": 1
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 7.3,
+        "steps": 5843,
+        "restingHeartRate": 55,
+        "hrvMs": 57,
+        "waterGlasses": 8,
+        "cycleDay": 23
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 3,
+          "humidityPct": 77,
+          "tempHighC": 23,
+          "aqi": 19
+        }
+      }
+    },
+    {
+      "id": "noor_scan_10",
+      "takenAt": "2026-10-04T15:21:00Z",
+      "area": "Forehead",
+      "photoUrl": "/scans/noor_scan_10.svg",
+      "scores": {
+        "hydration": 50,
+        "evenness": 63,
+        "redness": 56,
+        "pigmentation": 66,
+        "oiliness": 56,
+        "overall": 58
+      },
+      "summary": {
+        "headline": "Your skin is having an off day",
+        "observations": [
+          "Tone looks even.",
+          "Your skin looks drier than usual."
+        ],
+        "tip": "Try applying moisturizer while your skin is still a little damp after washing."
+      },
+      "annotation": {
+        "note": "Forgot sunscreen at the pool for an hour.",
+        "tags": [
+          "Warm",
+          "Red"
+        ],
+        "stress": 2
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 7.5,
+        "steps": 11470,
+        "restingHeartRate": 61,
+        "hrvMs": 62,
+        "waterGlasses": 8,
+        "cycleDay": 24
+      },
+      "location": {
+        "city": "Phoenix",
+        "region": "AZ",
+        "lat": 33.4484,
+        "lon": -112.074,
+        "tz": "America/Phoenix",
+        "environment": {
+          "uvIndexMax": 9,
+          "humidityPct": 15,
+          "tempHighC": 37,
+          "aqi": 55
+        }
+      }
+    },
+    {
+      "id": "noor_scan_11",
+      "takenAt": "2026-10-05T15:43:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_11.svg",
+      "scores": {
+        "hydration": 52,
+        "evenness": 62,
+        "redness": 51,
+        "pigmentation": 66,
+        "oiliness": 56,
+        "overall": 57
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more visible redness, especially around the nose."
+        ],
+        "tip": "Go easy on hot water and strong actives for a few days and see if things settle."
+      },
+      "annotation": {
+        "note": null,
+        "tags": [],
+        "stress": 3
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 6.6,
+        "steps": 9011,
+        "restingHeartRate": 57,
+        "hrvMs": 56,
+        "waterGlasses": 8,
+        "cycleDay": 25
+      },
+      "location": {
+        "city": "Phoenix",
+        "region": "AZ",
+        "lat": 33.4484,
+        "lon": -112.074,
+        "tz": "America/Phoenix",
+        "environment": {
+          "uvIndexMax": 9,
+          "humidityPct": 11,
+          "tempHighC": 34,
+          "aqi": 48
+        }
+      }
+    },
+    {
+      "id": "noor_scan_12",
+      "takenAt": "2026-10-06T04:28:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_12.svg",
+      "scores": {
+        "hydration": 52,
+        "evenness": 60,
+        "redness": 51,
+        "pigmentation": 68,
+        "oiliness": 59,
+        "overall": 58
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more visible redness, especially around the nose."
+        ],
+        "tip": "Go easy on hot water and strong actives for a few days and see if things settle."
+      },
+      "annotation": null,
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 6.6,
+        "steps": 9011,
+        "restingHeartRate": 57,
+        "hrvMs": 56,
+        "waterGlasses": 8,
+        "cycleDay": 25
+      },
+      "location": {
+        "city": "Phoenix",
+        "region": "AZ",
+        "lat": 33.4484,
+        "lon": -112.074,
+        "tz": "America/Phoenix",
+        "environment": {
+          "uvIndexMax": 9,
+          "humidityPct": 11,
+          "tempHighC": 34,
+          "aqi": 48
+        }
+      }
+    },
+    {
+      "id": "noor_scan_13",
+      "takenAt": "2026-10-06T15:15:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_13.svg",
+      "scores": {
+        "hydration": 49,
+        "evenness": 60,
+        "redness": 48,
+        "pigmentation": 66,
+        "oiliness": 55,
+        "overall": 56
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more visible redness, especially around the nose."
+        ],
+        "tip": "Go easy on hot water and strong actives for a few days and see if things settle."
+      },
+      "annotation": {
+        "note": "Flaky around my nose. Skipping retinol tonight.",
+        "tags": [
+          "Flaky",
+          "Stinging"
+        ],
+        "stress": 1
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 8.1,
+        "steps": 10944,
+        "restingHeartRate": 58,
+        "hrvMs": 64,
+        "waterGlasses": 9,
+        "cycleDay": 26
+      },
+      "location": {
+        "city": "Phoenix",
+        "region": "AZ",
+        "lat": 33.4484,
+        "lon": -112.074,
+        "tz": "America/Phoenix",
+        "environment": {
+          "uvIndexMax": 10,
+          "humidityPct": 12,
+          "tempHighC": 37,
+          "aqi": 44
+        }
+      }
+    },
+    {
+      "id": "noor_scan_14",
+      "takenAt": "2026-10-07T15:22:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_14.svg",
+      "scores": {
+        "hydration": 52,
+        "evenness": 60,
+        "redness": 47,
+        "pigmentation": 70,
+        "oiliness": 56,
+        "overall": 57
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more visible redness, especially around the nose."
+        ],
+        "tip": "Go easy on hot water and strong actives for a few days and see if things settle."
+      },
+      "annotation": null,
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 7.6,
+        "steps": 10535,
+        "restingHeartRate": 55,
+        "hrvMs": 66,
+        "waterGlasses": 6,
+        "cycleDay": 27
+      },
+      "location": {
+        "city": "Phoenix",
+        "region": "AZ",
+        "lat": 33.4484,
+        "lon": -112.074,
+        "tz": "America/Phoenix",
+        "environment": {
+          "uvIndexMax": 9,
+          "humidityPct": 11,
+          "tempHighC": 35,
+          "aqi": 50
+        }
+      }
+    },
+    {
+      "id": "noor_scan_15",
+      "takenAt": "2026-10-08T15:25:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_15.svg",
+      "scores": {
+        "hydration": 57,
+        "evenness": 61,
+        "redness": 51,
+        "pigmentation": 68,
+        "oiliness": 47,
+        "overall": 57
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more shine than usual through the T-zone."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "annotation": {
+        "note": "Back home. Slept badly on the red-eye.",
+        "tags": [
+          "Dull"
+        ],
+        "stress": 4
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 4.6,
+        "steps": 8436,
+        "restingHeartRate": 60,
+        "hrvMs": 52,
+        "waterGlasses": 7,
+        "cycleDay": 28
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 4,
+          "humidityPct": 76,
+          "tempHighC": 21,
+          "aqi": 19
+        }
+      }
+    },
+    {
+      "id": "noor_scan_16",
+      "takenAt": "2026-10-10T04:46:00Z",
+      "area": "Forehead",
+      "photoUrl": "/scans/noor_scan_16.svg",
+      "scores": {
+        "hydration": 57,
+        "evenness": 62,
+        "redness": 49,
+        "pigmentation": 68,
+        "oiliness": 51,
+        "overall": 57
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more visible redness, especially around the nose."
+        ],
+        "tip": "Go easy on hot water and strong actives for a few days and see if things settle."
+      },
+      "annotation": {
+        "note": "Period started, a couple of spots on my chin.",
+        "tags": [
+          "Breakout"
+        ],
+        "stress": 2
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 7.3,
+        "steps": 7310,
+        "restingHeartRate": 59,
+        "hrvMs": 68,
+        "waterGlasses": 8,
+        "cycleDay": 1
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 4,
+          "humidityPct": 70,
+          "tempHighC": 21,
+          "aqi": 37
+        }
+      }
+    },
+    {
+      "id": "noor_scan_17",
+      "takenAt": "2026-10-11T15:34:00Z",
+      "area": "Chin",
+      "photoUrl": "/scans/noor_scan_17.svg",
+      "scores": {
+        "hydration": 68,
+        "evenness": 58,
+        "redness": 50,
+        "pigmentation": 69,
+        "oiliness": 50,
+        "overall": 59
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more visible redness, especially around the nose."
+        ],
+        "tip": "Go easy on hot water and strong actives for a few days and see if things settle."
+      },
+      "annotation": {
+        "note": "Still stinging after retinol. Stopping it for now.",
+        "tags": [
+          "Stinging",
+          "Red"
+        ],
+        "stress": 3
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 7.9,
+        "steps": 9144,
+        "restingHeartRate": 61,
+        "hrvMs": 72,
+        "waterGlasses": 5,
+        "cycleDay": 3
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 4,
+          "humidityPct": 75,
+          "tempHighC": 18,
+          "aqi": 24
+        }
+      }
+    },
+    {
+      "id": "noor_scan_18",
+      "takenAt": "2026-10-12T15:46:00Z",
+      "area": "Chin",
+      "photoUrl": "/scans/noor_scan_18.svg",
+      "scores": {
+        "hydration": 67,
+        "evenness": 70,
+        "redness": 51,
+        "pigmentation": 70,
+        "oiliness": 65,
+        "overall": 65
+      },
+      "summary": {
+        "headline": "Your skin is looking better than last time",
+        "observations": [
+          "Texture looks smooth.",
+          "There's more visible redness, especially around the nose."
+        ],
+        "tip": "Go easy on hot water and strong actives for a few days and see if things settle."
+      },
+      "annotation": {
+        "note": null,
+        "tags": [],
+        "stress": 2
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 7.8,
+        "steps": 5864,
+        "restingHeartRate": 58,
+        "hrvMs": 56,
+        "waterGlasses": 6,
+        "cycleDay": 4
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 3,
+          "humidityPct": 77,
+          "tempHighC": 20,
+          "aqi": 31
+        }
+      }
+    },
+    {
+      "id": "noor_scan_19",
+      "takenAt": "2026-10-13T04:27:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_19.svg",
+      "scores": {
+        "hydration": 69,
+        "evenness": 70,
+        "redness": 54,
+        "pigmentation": 68,
+        "oiliness": 61,
+        "overall": 64
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Texture looks smooth.",
+          "There's more visible redness, especially around the nose."
+        ],
+        "tip": "Go easy on hot water and strong actives for a few days and see if things settle."
+      },
+      "annotation": null,
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 7.8,
+        "steps": 5864,
+        "restingHeartRate": 58,
+        "hrvMs": 56,
+        "waterGlasses": 6,
+        "cycleDay": 4
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 3,
+          "humidityPct": 77,
+          "tempHighC": 20,
+          "aqi": 31
+        }
+      }
+    },
+    {
+      "id": "noor_scan_20",
+      "takenAt": "2026-10-14T04:40:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_20.svg",
+      "scores": {
+        "hydration": 66,
+        "evenness": 66,
+        "redness": 56,
+        "pigmentation": 73,
+        "oiliness": 65,
+        "overall": 65
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more visible redness, especially around the nose."
+        ],
+        "tip": "Go easy on hot water and strong actives for a few days and see if things settle."
+      },
+      "annotation": {
+        "note": "First night of azelaic acid. Felt fine.",
+        "tags": [
+          "Calm"
+        ],
+        "stress": 2
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 6.6,
+        "steps": 6878,
+        "restingHeartRate": 56,
+        "hrvMs": 65,
+        "waterGlasses": 4,
+        "cycleDay": 5
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 5,
+          "humidityPct": 73,
+          "tempHighC": 19,
+          "aqi": 30
+        }
+      }
+    },
+    {
+      "id": "noor_scan_21",
+      "takenAt": "2026-10-14T15:12:00Z",
+      "area": "Forehead",
+      "photoUrl": "/scans/noor_scan_21.svg",
+      "scores": {
+        "hydration": 66,
+        "evenness": 66,
+        "redness": 61,
+        "pigmentation": 73,
+        "oiliness": 62,
+        "overall": 66
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more visible redness, especially around the nose."
+        ],
+        "tip": "Go easy on hot water and strong actives for a few days and see if things settle."
+      },
+      "annotation": {
+        "note": null,
+        "tags": [],
+        "stress": 2
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 7.1,
+        "steps": 9319,
+        "restingHeartRate": 57,
+        "hrvMs": 62,
+        "waterGlasses": 6,
+        "cycleDay": 6
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 4,
+          "humidityPct": 67,
+          "tempHighC": 21,
+          "aqi": 25
+        }
+      }
+    },
+    {
+      "id": "noor_scan_22",
+      "takenAt": "2026-10-16T15:36:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_22.svg",
+      "scores": {
+        "hydration": 69,
+        "evenness": 68,
+        "redness": 72,
+        "pigmentation": 75,
+        "oiliness": 65,
+        "overall": 70
+      },
+      "summary": {
+        "headline": "Your skin is looking better than last time",
+        "observations": [
+          "Tone looks even."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "annotation": {
+        "note": null,
+        "tags": [],
+        "stress": 3
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 7.8,
+        "steps": 4929,
+        "restingHeartRate": 59,
+        "hrvMs": 67,
+        "waterGlasses": 5,
+        "cycleDay": 8
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 3,
+          "humidityPct": 71,
+          "tempHighC": 22,
+          "aqi": 33
+        }
+      }
+    },
+    {
+      "id": "noor_scan_23",
+      "takenAt": "2026-10-18T04:21:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_23.svg",
+      "scores": {
+        "hydration": 69,
+        "evenness": 69,
+        "redness": 78,
+        "pigmentation": 73,
+        "oiliness": 63,
+        "overall": 70
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Redness is calm."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "annotation": {
+        "note": "Redness is way down! Chin is clearing.",
+        "tags": [
+          "Calm",
+          "Smooth"
+        ],
+        "stress": 2
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 6.7,
+        "steps": 5721,
+        "restingHeartRate": 56,
+        "hrvMs": 58,
+        "waterGlasses": 7,
+        "cycleDay": 9
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 5,
+          "humidityPct": 68,
+          "tempHighC": 21,
+          "aqi": 28
+        }
+      }
+    },
+    {
+      "id": "noor_scan_24",
+      "takenAt": "2026-10-18T15:24:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_24.svg",
+      "scores": {
+        "hydration": 68,
+        "evenness": 74,
+        "redness": 79,
+        "pigmentation": 73,
+        "oiliness": 64,
+        "overall": 72
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Redness is calm."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "annotation": null,
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 6.8,
+        "steps": 7406,
+        "restingHeartRate": 57,
+        "hrvMs": 66,
+        "waterGlasses": 5,
+        "cycleDay": 10
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 4,
+          "humidityPct": 77,
+          "tempHighC": 23,
+          "aqi": 26
+        }
+      }
+    },
+    {
+      "id": "noor_scan_25",
+      "takenAt": "2026-10-20T15:35:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_25.svg",
+      "scores": {
+        "hydration": 69,
+        "evenness": 74,
+        "redness": 80,
+        "pigmentation": 76,
+        "oiliness": 57,
+        "overall": 71
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Redness is calm.",
+          "There's more shine than usual through the T-zone."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "annotation": {
+        "note": "Big deadline week, not sleeping much.",
+        "tags": [
+          "Oily"
+        ],
+        "stress": 4
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 5.5,
+        "steps": 8284,
+        "restingHeartRate": 64,
+        "hrvMs": 54,
+        "waterGlasses": 5,
+        "cycleDay": 12
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 5,
+          "humidityPct": 70,
+          "tempHighC": 19,
+          "aqi": 24
+        }
+      }
+    },
+    {
+      "id": "noor_scan_26",
+      "takenAt": "2026-10-22T04:04:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_26.svg",
+      "scores": {
+        "hydration": 70,
+        "evenness": 76,
+        "redness": 80,
+        "pigmentation": 73,
+        "oiliness": 54,
+        "overall": 71
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Redness is calm.",
+          "There's more shine than usual through the T-zone."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "annotation": null,
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 5.4,
+        "steps": 4965,
+        "restingHeartRate": 61,
+        "hrvMs": 48,
+        "waterGlasses": 5,
+        "cycleDay": 13
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 4,
+          "humidityPct": 76,
+          "tempHighC": 18,
+          "aqi": 28
+        }
+      }
+    },
+    {
+      "id": "noor_scan_27",
+      "takenAt": "2026-10-22T15:49:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/scans/noor_scan_27.svg",
+      "scores": {
+        "hydration": 70,
+        "evenness": 76,
+        "redness": 84,
+        "pigmentation": 75,
+        "oiliness": 54,
+        "overall": 72
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Redness is calm.",
+          "There's more shine than usual through the T-zone."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "annotation": {
+        "note": "Honestly my skin looks the best it has all month.",
+        "tags": [
+          "Glowy",
+          "Calm"
+        ],
+        "stress": 4
+      },
+      "health": {
+        "source": "Apple Health",
+        "sleepHours": 5.2,
+        "steps": 8370,
+        "restingHeartRate": 64,
+        "hrvMs": 43,
+        "waterGlasses": 8,
+        "cycleDay": 14
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "CA",
+        "lat": 37.7599,
+        "lon": -122.4148,
+        "tz": "America/Los_Angeles",
+        "environment": {
+          "uvIndexMax": 5,
+          "humidityPct": 65,
+          "tempHighC": 19,
+          "aqi": 17
+        }
+      }
+    }
+  ]
+}

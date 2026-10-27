@@ -1,0 +1,731 @@
+{
+  "id": "maya",
+  "person": {
+    "firstName": "Maya",
+    "age": 29,
+    "skinType": "Combination",
+    "concerns": [
+      "Redness",
+      "Dryness"
+    ]
+  },
+  "scans": [
+    {
+      "id": "maya_scan_01",
+      "takenAt": "2026-07-06T14:04:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/mock-photos/maya_scan_01.svg",
+      "scores": {
+        "hydration": 54,
+        "evenness": 68,
+        "redness": 63,
+        "pigmentation": 75,
+        "oiliness": 63,
+        "overall": 65
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "Skin looks a little drier than usual."
+        ],
+        "tip": "Try applying moisturizer while your skin is still a little damp after washing."
+      },
+      "checkin": {
+        "sleepHours": 7.5,
+        "waterGlasses": 6,
+        "stress": 3
+      }
+    },
+    {
+      "id": "maya_scan_02",
+      "takenAt": "2026-07-08T09:16:00Z",
+      "area": "Forehead",
+      "photoUrl": "/mock-photos/maya_scan_02.svg",
+      "scores": {
+        "hydration": 58,
+        "evenness": 68,
+        "redness": 64,
+        "pigmentation": 75,
+        "oiliness": 57,
+        "overall": 64
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more shine than usual."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "checkin": {
+        "sleepHours": 6.5,
+        "waterGlasses": 7,
+        "stress": 1
+      }
+    },
+    {
+      "id": "maya_scan_03",
+      "takenAt": "2026-07-11T17:19:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/mock-photos/maya_scan_03.svg",
+      "scores": {
+        "hydration": 56,
+        "evenness": 69,
+        "redness": 62,
+        "pigmentation": 77,
+        "oiliness": 62,
+        "overall": 65
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "Skin looks a little drier than usual."
+        ],
+        "tip": "Try applying moisturizer while your skin is still a little damp after washing."
+      },
+      "checkin": {
+        "sleepHours": 6,
+        "waterGlasses": 3,
+        "stress": 4
+      }
+    },
+    {
+      "id": "maya_scan_04",
+      "takenAt": "2026-07-13T14:34:00Z",
+      "area": "Forehead",
+      "photoUrl": "/mock-photos/maya_scan_04.svg",
+      "scores": {
+        "hydration": 60,
+        "evenness": 67,
+        "redness": 60,
+        "pigmentation": 76,
+        "oiliness": 59,
+        "overall": 64
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more shine than usual."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "checkin": {
+        "sleepHours": 5.5,
+        "waterGlasses": 8,
+        "stress": 5
+      }
+    },
+    {
+      "id": "maya_scan_05",
+      "takenAt": "2026-07-16T14:16:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/mock-photos/maya_scan_05.svg",
+      "scores": {
+        "hydration": 56,
+        "evenness": 65,
+        "redness": 60,
+        "pigmentation": 77,
+        "oiliness": 60,
+        "overall": 64
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "Skin looks a little drier than usual."
+        ],
+        "tip": "Try applying moisturizer while your skin is still a little damp after washing."
+      },
+      "checkin": {
+        "sleepHours": 8,
+        "waterGlasses": 3,
+        "stress": 4
+      }
+    },
+    {
+      "id": "maya_scan_06",
+      "takenAt": "2026-07-20T13:21:00Z",
+      "area": "Forehead",
+      "photoUrl": "/mock-photos/maya_scan_06.svg",
+      "scores": {
+        "hydration": 54,
+        "evenness": 69,
+        "redness": 65,
+        "pigmentation": 78,
+        "oiliness": 59,
+        "overall": 65
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "Skin looks a little drier than usual."
+        ],
+        "tip": "Try applying moisturizer while your skin is still a little damp after washing."
+      }
+    },
+    {
+      "id": "maya_scan_07",
+      "takenAt": "2026-07-22T11:50:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/mock-photos/maya_scan_07.svg",
+      "scores": {
+        "hydration": 61,
+        "evenness": 69,
+        "redness": 66,
+        "pigmentation": 72,
+        "oiliness": 60,
+        "overall": 66
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more shine than usual."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      }
+    },
+    {
+      "id": "maya_scan_08",
+      "takenAt": "2026-07-25T12:56:00Z",
+      "area": "Forehead",
+      "photoUrl": "/mock-photos/maya_scan_08.svg",
+      "scores": {
+        "hydration": 57,
+        "evenness": 71,
+        "redness": 66,
+        "pigmentation": 71,
+        "oiliness": 59,
+        "overall": 65
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Texture looks smooth and even.",
+          "Skin looks a little drier than usual."
+        ],
+        "tip": "Try applying moisturizer while your skin is still a little damp after washing."
+      },
+      "checkin": {
+        "sleepHours": 7.5,
+        "waterGlasses": 5,
+        "stress": 5
+      }
+    },
+    {
+      "id": "maya_scan_09",
+      "takenAt": "2026-07-27T19:18:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/mock-photos/maya_scan_09.svg",
+      "scores": {
+        "hydration": 61,
+        "evenness": 69,
+        "redness": 63,
+        "pigmentation": 74,
+        "oiliness": 56,
+        "overall": 65
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more shine than usual."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "checkin": {
+        "sleepHours": 5.5,
+        "waterGlasses": 3,
+        "stress": 4
+      }
+    },
+    {
+      "id": "maya_scan_10",
+      "takenAt": "2026-07-30T19:57:00Z",
+      "area": "Forehead",
+      "photoUrl": "/mock-photos/maya_scan_10.svg",
+      "scores": {
+        "hydration": 62,
+        "evenness": 70,
+        "redness": 62,
+        "pigmentation": 74,
+        "oiliness": 61,
+        "overall": 66
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more shine than usual."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "checkin": {
+        "sleepHours": 7.5,
+        "waterGlasses": 7,
+        "stress": 3
+      }
+    },
+    {
+      "id": "maya_scan_11",
+      "takenAt": "2026-08-03T08:08:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/mock-photos/maya_scan_11.svg",
+      "scores": {
+        "hydration": 59,
+        "evenness": 71,
+        "redness": 67,
+        "pigmentation": 78,
+        "oiliness": 62,
+        "overall": 67
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "Skin looks a little drier than usual."
+        ],
+        "tip": "Try applying moisturizer while your skin is still a little damp after washing."
+      },
+      "checkin": {
+        "sleepHours": 9,
+        "waterGlasses": 5,
+        "stress": 5
+      }
+    },
+    {
+      "id": "maya_scan_12",
+      "takenAt": "2026-08-05T16:29:00Z",
+      "area": "Forehead",
+      "photoUrl": "/mock-photos/maya_scan_12.svg",
+      "scores": {
+        "hydration": 62,
+        "evenness": 73,
+        "redness": 67,
+        "pigmentation": 71,
+        "oiliness": 58,
+        "overall": 66
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Texture looks smooth and even.",
+          "There's more shine than usual."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "checkin": {
+        "sleepHours": 6,
+        "waterGlasses": 8,
+        "stress": 2
+      }
+    },
+    {
+      "id": "maya_scan_13",
+      "takenAt": "2026-08-08T20:45:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/mock-photos/maya_scan_13.svg",
+      "scores": {
+        "hydration": 61,
+        "evenness": 71,
+        "redness": 41,
+        "pigmentation": 71,
+        "oiliness": 63,
+        "overall": 61
+      },
+      "summary": {
+        "headline": "Your skin is having an off day",
+        "observations": [
+          "Texture looks smooth and even.",
+          "There's more visible redness than usual."
+        ],
+        "tip": "Go easy on hot water and strong actives for a few days and see if things settle."
+      }
+    },
+    {
+      "id": "maya_scan_14",
+      "takenAt": "2026-08-10T07:29:00Z",
+      "area": "Forehead",
+      "photoUrl": "/mock-photos/maya_scan_14.svg",
+      "scores": {
+        "hydration": 64,
+        "evenness": 74,
+        "redness": 43,
+        "pigmentation": 76,
+        "oiliness": 61,
+        "overall": 64
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more visible redness than usual."
+        ],
+        "tip": "Go easy on hot water and strong actives for a few days and see if things settle."
+      },
+      "checkin": {
+        "sleepHours": 5.5,
+        "waterGlasses": 8,
+        "stress": 1
+      }
+    },
+    {
+      "id": "maya_scan_15",
+      "takenAt": "2026-08-13T19:58:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/mock-photos/maya_scan_15.svg",
+      "scores": {
+        "hydration": 62,
+        "evenness": 75,
+        "redness": 44,
+        "pigmentation": 76,
+        "oiliness": 63,
+        "overall": 64
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more visible redness than usual."
+        ],
+        "tip": "Go easy on hot water and strong actives for a few days and see if things settle."
+      }
+    },
+    {
+      "id": "maya_scan_16",
+      "takenAt": "2026-08-17T07:03:00Z",
+      "area": "Forehead",
+      "photoUrl": "/mock-photos/maya_scan_16.svg",
+      "scores": {
+        "hydration": 64,
+        "evenness": 72,
+        "redness": 43,
+        "pigmentation": 73,
+        "oiliness": 60,
+        "overall": 62
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more visible redness than usual."
+        ],
+        "tip": "Go easy on hot water and strong actives for a few days and see if things settle."
+      },
+      "checkin": {
+        "sleepHours": 6,
+        "waterGlasses": 5,
+        "stress": 4
+      }
+    },
+    {
+      "id": "maya_scan_17",
+      "takenAt": "2026-08-19T11:26:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/mock-photos/maya_scan_17.svg",
+      "scores": {
+        "hydration": 66,
+        "evenness": 70,
+        "redness": 69,
+        "pigmentation": 73,
+        "oiliness": 64,
+        "overall": 68
+      },
+      "summary": {
+        "headline": "Your skin is looking better than last time",
+        "observations": [
+          "Tone looks even.",
+          "There's more shine than usual."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      }
+    },
+    {
+      "id": "maya_scan_18",
+      "takenAt": "2026-08-22T08:09:00Z",
+      "area": "Forehead",
+      "photoUrl": "/mock-photos/maya_scan_18.svg",
+      "scores": {
+        "hydration": 69,
+        "evenness": 70,
+        "redness": 69,
+        "pigmentation": 75,
+        "oiliness": 56,
+        "overall": 68
+      },
+      "summary": {
+        "headline": "Your skin is looking better than last time",
+        "observations": [
+          "Tone looks even.",
+          "There's more shine than usual."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "checkin": {
+        "sleepHours": 5.5,
+        "waterGlasses": 8,
+        "stress": 1
+      }
+    },
+    {
+      "id": "maya_scan_19",
+      "takenAt": "2026-08-24T08:44:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/mock-photos/maya_scan_19.svg",
+      "scores": {
+        "hydration": 70,
+        "evenness": 75,
+        "redness": 71,
+        "pigmentation": 76,
+        "oiliness": 57,
+        "overall": 70
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more shine than usual."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      }
+    },
+    {
+      "id": "maya_scan_20",
+      "takenAt": "2026-08-27T17:34:00Z",
+      "area": "Forehead",
+      "photoUrl": "/mock-photos/maya_scan_20.svg",
+      "scores": {
+        "hydration": 66,
+        "evenness": 71,
+        "redness": 66,
+        "pigmentation": 77,
+        "oiliness": 61,
+        "overall": 68
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more shine than usual."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "checkin": {
+        "sleepHours": 8,
+        "waterGlasses": 5,
+        "stress": 4
+      }
+    },
+    {
+      "id": "maya_scan_21",
+      "takenAt": "2026-08-31T14:57:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/mock-photos/maya_scan_21.svg",
+      "scores": {
+        "hydration": 68,
+        "evenness": 70,
+        "redness": 67,
+        "pigmentation": 75,
+        "oiliness": 56,
+        "overall": 67
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more shine than usual."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "checkin": {
+        "sleepHours": 7,
+        "waterGlasses": 9,
+        "stress": 1
+      }
+    },
+    {
+      "id": "maya_scan_22",
+      "takenAt": "2026-09-02T19:28:00Z",
+      "area": "Forehead",
+      "photoUrl": "/mock-photos/maya_scan_22.svg",
+      "scores": {
+        "hydration": 71,
+        "evenness": 75,
+        "redness": 68,
+        "pigmentation": 78,
+        "oiliness": 57,
+        "overall": 70
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more shine than usual."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "checkin": {
+        "sleepHours": 9,
+        "waterGlasses": 5,
+        "stress": 3
+      }
+    },
+    {
+      "id": "maya_scan_23",
+      "takenAt": "2026-09-05T20:33:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/mock-photos/maya_scan_23.svg",
+      "scores": {
+        "hydration": 71,
+        "evenness": 70,
+        "redness": 68,
+        "pigmentation": 71,
+        "oiliness": 57,
+        "overall": 67
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Your skin looks well hydrated.",
+          "There's more shine than usual."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "checkin": {
+        "sleepHours": 6,
+        "waterGlasses": 9,
+        "stress": 1
+      }
+    },
+    {
+      "id": "maya_scan_24",
+      "takenAt": "2026-09-07T08:22:00Z",
+      "area": "Forehead",
+      "photoUrl": "/mock-photos/maya_scan_24.svg",
+      "scores": {
+        "hydration": 75,
+        "evenness": 71,
+        "redness": 67,
+        "pigmentation": 74,
+        "oiliness": 59,
+        "overall": 69
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Your skin looks well hydrated.",
+          "There's more shine than usual."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      }
+    },
+    {
+      "id": "maya_scan_25",
+      "takenAt": "2026-09-10T14:32:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/mock-photos/maya_scan_25.svg",
+      "scores": {
+        "hydration": 77,
+        "evenness": 74,
+        "redness": 71,
+        "pigmentation": 78,
+        "oiliness": 59,
+        "overall": 72
+      },
+      "summary": {
+        "headline": "Your skin is looking better than last time",
+        "observations": [
+          "Tone looks even.",
+          "There's more shine than usual."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      }
+    },
+    {
+      "id": "maya_scan_26",
+      "takenAt": "2026-09-14T08:14:00Z",
+      "area": "Forehead",
+      "photoUrl": "/mock-photos/maya_scan_26.svg",
+      "scores": {
+        "hydration": 74,
+        "evenness": 77,
+        "redness": 70,
+        "pigmentation": 74,
+        "oiliness": 59,
+        "overall": 71
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Texture looks smooth and even.",
+          "There's more shine than usual."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "checkin": {
+        "sleepHours": 5,
+        "waterGlasses": 3,
+        "stress": 4
+      }
+    },
+    {
+      "id": "maya_scan_27",
+      "takenAt": "2026-09-16T15:40:00Z",
+      "area": "Left cheek",
+      "photoUrl": "/mock-photos/maya_scan_27.svg",
+      "scores": {
+        "hydration": 72,
+        "evenness": 71,
+        "redness": 71,
+        "pigmentation": 76,
+        "oiliness": 61,
+        "overall": 70
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Tone looks even.",
+          "There's more shine than usual."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "checkin": {
+        "sleepHours": 8,
+        "waterGlasses": 9,
+        "stress": 2
+      }
+    },
+    {
+      "id": "maya_scan_28",
+      "takenAt": "2026-09-19T08:55:00Z",
+      "area": "Forehead",
+      "photoUrl": "/mock-photos/maya_scan_28.svg",
+      "scores": {
+        "hydration": 78,
+        "evenness": 71,
+        "redness": 69,
+        "pigmentation": 74,
+        "oiliness": 61,
+        "overall": 71
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Your skin looks well hydrated.",
+          "There's more shine than usual."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "checkin": {
+        "sleepHours": 5.5,
+        "waterGlasses": 9,
+        "stress": 2
+      }
+    }
+  ],
+  "generatedAt": "2026-10-23T09:00:00Z"
+}

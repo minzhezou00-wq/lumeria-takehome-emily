@@ -1,0 +1,41 @@
+{
+  "id": "jordan",
+  "person": {
+    "firstName": "Jordan",
+    "age": 34,
+    "skinType": "Oily",
+    "concerns": [
+      "Breakouts"
+    ]
+  },
+  "scans": [
+    {
+      "id": "jordan_scan_01",
+      "takenAt": "2026-10-20T09:30:00Z",
+      "area": "Chin",
+      "photoUrl": "/mock-photos/jordan_scan_01.svg",
+      "scores": {
+        "hydration": 68,
+        "evenness": 55,
+        "redness": 67,
+        "pigmentation": 68,
+        "oiliness": 40,
+        "overall": 60
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Your skin looks well hydrated.",
+          "There's more shine than usual."
+        ],
+        "tip": "A lightweight, oil-free moisturizer can help balance shine without drying you out."
+      },
+      "checkin": {
+        "sleepHours": 8.5,
+        "waterGlasses": 3,
+        "stress": 4
+      }
+    }
+  ],
+  "generatedAt": "2026-10-23T09:00:00Z"
+}

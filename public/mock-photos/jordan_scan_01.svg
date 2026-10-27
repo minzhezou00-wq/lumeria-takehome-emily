@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <filter id="t"><feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="4" seed="23"/><feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .55 0"/><feComposite in2="SourceGraphic" operator="in"/></filter>
+    <filter id="p"><feTurbulence type="turbulence" baseFrequency="0.6" numOctaves="2" seed="30"/><feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .18 0"/></filter>
+    <radialGradient id="g" cx="45%" cy="40%" r="75%"><stop offset="0" stop-color="#c68e6a"/><stop offset=".6" stop-color="#a86f4d"/><stop offset="1" stop-color="#7d4f35"/></radialGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#g)"/>
+  <rect width="400" height="400" fill="#a86f4d" filter="url(#t)"/>
+  <rect width="400" height="400" filter="url(#p)"/>
+  <rect width="400" height="400" fill="#d0404a" opacity="0.00"/>
+</svg>

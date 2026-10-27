@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+.vercel
+.env*.local
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+.env*
+
+# Real scan photos are shared privately. Never commit them.
+public/scans/*.jpg

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <filter id="t"><feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="5" seed="110"/><feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .5 0"/><feComposite in2="SourceGraphic" operator="in"/></filter>
+    <filter id="p"><feTurbulence type="turbulence" baseFrequency="0.5" numOctaves="2" seed="113"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.17 0"/></filter>
+    <radialGradient id="g" cx="48%" cy="44%" r="70%"><stop offset="0" stop-color="#e3b895"/><stop offset=".65" stop-color="#c99470"/><stop offset="1" stop-color="#8f5f41"/></radialGradient>
+    <radialGradient id="v" cx="50%" cy="50%" r="50%"><stop offset=".72" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#g)"/>
+  <rect width="600" height="600" fill="#b77a55" filter="url(#t)"/>
+  <rect width="600" height="600" filter="url(#p)"/>
+  <rect width="600" height="600" fill="#d23c46" opacity="0.13"/>
+  <rect width="600" height="600" fill="url(#v)"/>
+</svg>

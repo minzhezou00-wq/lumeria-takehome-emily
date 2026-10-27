@@ -1,0 +1,246 @@
+{
+  "id": "sam",
+  "person": {
+    "firstName": "Samira-Josephine",
+    "age": 47,
+    "skinType": null,
+    "concerns": []
+  },
+  "scans": [
+    {
+      "id": "sam_scan_03",
+      "takenAt": "2026-09-09T16:28:00Z",
+      "area": "Upper back",
+      "photoUrl": "/mock-photos/sam_scan_03.svg",
+      "scores": {
+        "hydration": 59,
+        "evenness": 62,
+        "redness": 78,
+        "pigmentation": 55,
+        "oiliness": null,
+        "overall": 64
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Redness is calm.",
+          "Dark spots look a touch more visible.",
+          "Compared with your earlier scans of this area, the tone looks a little patchier toward the edges of the photo, which can happen with sun exposure over the summer, though lighting at the time of the scan can make this look stronger than it really is."
+        ],
+        "tip": "Daily SPF, even on cloudy days, is the single best way to keep spots from darkening."
+      },
+      "checkin": {
+        "sleepHours": 9,
+        "waterGlasses": 5,
+        "stress": 2
+      }
+    },
+    {
+      "id": "sam_scan_06",
+      "takenAt": "2026-09-25T17:29:00Z",
+      "area": "Right forearm",
+      "photoUrl": "/mock-photos/sam_scan_06.svg",
+      "scores": {
+        "hydration": 58,
+        "evenness": 64,
+        "redness": 80,
+        "pigmentation": 49,
+        "oiliness": 68,
+        "overall": 64
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Redness is calm.",
+          "Dark spots look a touch more visible."
+        ],
+        "tip": "Daily SPF, even on cloudy days, is the single best way to keep spots from darkening."
+      }
+    },
+    {
+      "id": "sam_scan_09",
+      "takenAt": "2026-10-04T12:12:00Z",
+      "area": "Right forearm",
+      "photoUrl": "/mock-photos/sam_scan_09.svg",
+      "scores": {
+        "hydration": 60,
+        "evenness": 63,
+        "redness": 76,
+        "pigmentation": 42,
+        "oiliness": 64,
+        "overall": 61
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Redness is calm.",
+          "Dark spots look a touch more visible."
+        ],
+        "tip": "Daily SPF, even on cloudy days, is the single best way to keep spots from darkening."
+      },
+      "checkin": {
+        "sleepHours": 5.5,
+        "waterGlasses": 6,
+        "stress": 5
+      }
+    },
+    {
+      "id": "sam_scan_05",
+      "takenAt": "2026-09-23T19:03:00Z",
+      "area": "Right forearm",
+      "photoUrl": null,
+      "scores": {
+        "hydration": 58,
+        "evenness": 62,
+        "redness": 76,
+        "pigmentation": 51,
+        "oiliness": 70,
+        "overall": 63
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Redness is calm.",
+          "Dark spots look a touch more visible."
+        ],
+        "tip": "Daily SPF, even on cloudy days, is the single best way to keep spots from darkening."
+      }
+    },
+    {
+      "id": "sam_scan_01",
+      "takenAt": "2026-08-30T15:10:00Z",
+      "area": "Right forearm",
+      "photoUrl": "/mock-photos/sam_scan_01.svg",
+      "scores": {
+        "hydration": 63,
+        "evenness": 65,
+        "redness": 76,
+        "pigmentation": 57,
+        "oiliness": null,
+        "overall": 65
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Redness is calm.",
+          "Dark spots look a touch more visible."
+        ],
+        "tip": "Daily SPF, even on cloudy days, is the single best way to keep spots from darkening."
+      },
+      "checkin": {
+        "sleepHours": 7.5,
+        "waterGlasses": 6,
+        "stress": 3
+      }
+    },
+    {
+      "id": "sam_scan_02",
+      "takenAt": "2026-08-31T20:13:00Z",
+      "area": "Right forearm",
+      "photoUrl": "/mock-photos/sam_scan_02.svg",
+      "scores": {
+        "hydration": 65,
+        "evenness": 59,
+        "redness": 82,
+        "pigmentation": 57,
+        "oiliness": null,
+        "overall": 66
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Redness is calm.",
+          "Dark spots look a touch more visible."
+        ],
+        "tip": "Daily SPF, even on cloudy days, is the single best way to keep spots from darkening."
+      },
+      "checkin": {
+        "sleepHours": 8,
+        "waterGlasses": 3,
+        "stress": 3
+      }
+    },
+    {
+      "id": "sam_scan_07",
+      "takenAt": "2026-10-01T08:44:00Z",
+      "area": "Upper back",
+      "photoUrl": "/mock-photos/sam_scan_07.svg",
+      "scores": {
+        "hydration": 58,
+        "evenness": 65,
+        "redness": 81,
+        "pigmentation": 46,
+        "oiliness": null,
+        "overall": 63
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Redness is calm.",
+          "Dark spots look a touch more visible."
+        ],
+        "tip": "Daily SPF, even on cloudy days, is the single best way to keep spots from darkening."
+      },
+      "checkin": {
+        "sleepHours": 6.5,
+        "waterGlasses": 8,
+        "stress": 4
+      }
+    },
+    {
+      "id": "sam_scan_04",
+      "takenAt": "2026-09-09T10:34:00Z",
+      "area": "Left jawline",
+      "photoUrl": "/mock-photos/sam_scan_04.svg",
+      "scores": {
+        "hydration": 61,
+        "evenness": 58,
+        "redness": 83,
+        "pigmentation": 55,
+        "oiliness": null,
+        "overall": 64
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Redness is calm.",
+          "Dark spots look a touch more visible."
+        ],
+        "tip": "Daily SPF, even on cloudy days, is the single best way to keep spots from darkening."
+      },
+      "checkin": {
+        "sleepHours": 6.5,
+        "waterGlasses": 8,
+        "stress": 1
+      }
+    },
+    {
+      "id": "sam_scan_08",
+      "takenAt": "2026-10-01T11:51:00Z",
+      "area": "Left jawline",
+      "photoUrl": "/mock-photos/sam_scan_08.svg",
+      "scores": {
+        "hydration": 61,
+        "evenness": 61,
+        "redness": 80,
+        "pigmentation": 44,
+        "oiliness": 64,
+        "overall": 62
+      },
+      "summary": {
+        "headline": "A steady day for your skin",
+        "observations": [
+          "Redness is calm.",
+          "Dark spots look a touch more visible."
+        ],
+        "tip": "Daily SPF, even on cloudy days, is the single best way to keep spots from darkening."
+      },
+      "checkin": {
+        "sleepHours": 6,
+        "waterGlasses": 5,
+        "stress": 1
+      }
+    }
+  ],
+  "generatedAt": "2026-10-23T09:00:00Z"
+}
