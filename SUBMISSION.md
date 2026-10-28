@@ -8,7 +8,9 @@ Also: [/report/maya](https://lumeria-skin-report-eight.vercel.app/report/maya) Â
 
 **Figma:** https://www.figma.com/design/Nj9M8qHIPhNt8Bk3HzXc9f/?node-id=0-1
 
-**Time spent:** _(fill in)_
+**PRD:** https://wlarkusnwt49xqq3.usttp.larksuite.com/wiki/RwgVwlFhciWhDHk9bd7u8inBtNb
+
+**Time spent:** about 4â€“6 hours of my own working time
 
 Best on a phone. On a laptop the report opens inside an iPhone-sized frame; add `?frame=0` to turn that off.
 
