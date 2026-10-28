@@ -6,7 +6,7 @@ Also: [/report/maya](https://lumeria-skin-report-eight.vercel.app/report/maya) Â
 
 **Code:** https://github.com/minzhezou00-wq/lumeria-takehome-emily
 
-**Figma:** [design board](https://www.figma.com/design/Uh2G8hFuc72m1IUrjvoKV2/?node-id=501-2) Â· [these notes as a board](https://www.figma.com/design/Uh2G8hFuc72m1IUrjvoKV2/?node-id=520-2)
+**Figma:** https://www.figma.com/design/Nj9M8qHIPhNt8Bk3HzXc9f/?node-id=0-1
 
 **Time spent:** _(fill in)_
 
