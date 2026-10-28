@@ -4,7 +4,9 @@
 
 Also: [/report/maya](https://lumeria-skin-report-eight.vercel.app/report/maya) · [/report/jordan](https://lumeria-skin-report-eight.vercel.app/report/jordan) · [/report/sam](https://lumeria-skin-report-eight.vercel.app/report/sam) · [load error](https://lumeria-skin-report-eight.vercel.app/report/noor?fail=1) · [unknown id](https://lumeria-skin-report-eight.vercel.app/report/alex)
 
-**Design board (Figma):** https://www.figma.com/design/Uh2G8hFuc72m1IUrjvoKV2/?node-id=515-3
+**Code:** https://github.com/minzhezou00-wq/lumeria-takehome-emily
+
+**Figma:** [design board](https://www.figma.com/design/Uh2G8hFuc72m1IUrjvoKV2/?node-id=501-2) · [these notes as a board](https://www.figma.com/design/Uh2G8hFuc72m1IUrjvoKV2/?node-id=520-2)
 
 **Time spent:** _(fill in)_
 
