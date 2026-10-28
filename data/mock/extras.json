@@ -1,0 +1,169 @@
+{
+  "_note": "Assumed data, not from the Lumeria API. Listed in SUBMISSION.md. Prices and claims were copied from brand sites on 2026-10-27.",
+  "products": {
+    "prod_moisturizer": {
+      "shortName": "Barrier moisturizer",
+      "image": "/products/cerave-cream.jpg",
+      "ingredients": [
+        {
+          "name": "Ceramides",
+          "ok": true,
+          "why": "Support the skin barrier."
+        },
+        {
+          "name": "Glycerin",
+          "ok": true,
+          "why": "Draws water into your skin."
+        },
+        {
+          "name": "Fragrance-free",
+          "ok": true,
+          "why": "Less likely to sting sensitive skin."
+        },
+        {
+          "name": "Rich cream",
+          "ok": false,
+          "why": "Can feel heavy on your shinier T-zone days."
+        }
+      ]
+    },
+    "prod_retinol": {
+      "shortName": "Retinol 0.3% Serum",
+      "verb": "retinol",
+      "image": "/products/retinol.png",
+      "ingredients": [
+        {
+          "name": "Retinol",
+          "ok": true,
+          "why": "Helps skin renew for a smoother look."
+        },
+        {
+          "name": "Strong for you",
+          "ok": false,
+          "why": "Can sting sensitive skin, even at 0.3%."
+        }
+      ]
+    },
+    "prod_azelaic": {
+      "shortName": "Azelaic Acid 10% Gel",
+      "verb": "azelaic acid",
+      "image": "/products/azelaic.png",
+      "ingredients": [
+        {
+          "name": "Azelaic acid",
+          "ok": true,
+          "why": "Calms the look of redness."
+        },
+        {
+          "name": "Fragrance-free",
+          "ok": true,
+          "why": "Less likely to sting sensitive skin."
+        },
+        {
+          "name": "Mild tingle",
+          "ok": false,
+          "why": "Common in the first weeks. Usually fades."
+        }
+      ]
+    }
+  },
+  "preferences": {
+    "noor": [
+      "Fragrance-free",
+      "Oil-free"
+    ]
+  },
+  "recommendations": {
+    "noor": {
+      "forMetric": "oiliness",
+      "why": "Light, oil-free picks for the T-zone shine, best first.",
+      "items": [
+        {
+          "brand": "La Roche-Posay",
+          "name": "Toleriane Double Repair Moisturizer",
+          "price": 24.99,
+          "image": "/products/lrp-toleriane.jpg",
+          "url": "https://www.laroche-posay.us/",
+          "ingredients": [
+            {
+              "name": "Fragrance-free",
+              "ok": true,
+              "why": "Less likely to sting sensitive skin."
+            },
+            {
+              "name": "Oil-free",
+              "ok": true,
+              "why": "Suits your shinier weeks."
+            },
+            {
+              "name": "Ceramides",
+              "ok": true,
+              "why": "Support the skin barrier."
+            },
+            {
+              "name": "Niacinamide",
+              "ok": false,
+              "why": "New to you. Patch test first."
+            }
+          ],
+          "research": {
+            "label": "Niacinamide is studied for shine",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16766489/"
+          }
+        },
+        {
+          "brand": "CeraVe",
+          "name": "PM Facial Moisturizing Lotion",
+          "price": 19.99,
+          "image": "/products/cerave-pm.jpg",
+          "url": "https://www.cerave.com/",
+          "ingredients": [
+            {
+              "name": "Fragrance-free",
+              "ok": true,
+              "why": "Less likely to sting sensitive skin."
+            },
+            {
+              "name": "Oil-free",
+              "ok": true,
+              "why": "Suits your shinier weeks."
+            },
+            {
+              "name": "Ceramides",
+              "ok": true,
+              "why": "Support the skin barrier."
+            },
+            {
+              "name": "Niacinamide",
+              "ok": false,
+              "why": "New to you. Patch test first."
+            }
+          ],
+          "research": {
+            "label": "Niacinamide is studied for shine",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16766489/"
+          }
+        },
+        {
+          "brand": "The Ordinary",
+          "name": "Natural Moisturizing Factors + HA",
+          "price": 6.7,
+          "image": "/products/to-nmf.png",
+          "url": "https://theordinary.com/",
+          "ingredients": [
+            {
+              "name": "Oil-free",
+              "ok": true,
+              "why": "Suits your shinier weeks."
+            },
+            {
+              "name": "Hyaluronic acid",
+              "ok": true,
+              "why": "Helps skin hold on to water."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

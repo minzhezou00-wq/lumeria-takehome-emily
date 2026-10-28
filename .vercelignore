@@ -1,0 +1,5 @@
+# Real scan photos are a team member's skin, shared privately. They never leave this machine;
+# the deploy shows the generated placeholders instead (the README says that's fine).
+public/scans/*.jpg
+node_modules
+.next
